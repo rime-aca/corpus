@@ -1,5 +1,6 @@
 ﻿唐詩三百首全文
-瑾昀根據http://cls.lib.ntu.edu.tw/300/ALL/ALLFRAME.htm整理，已補全big5缺字（含ext-a）「藁」「裛」「嚱」「鏁」「㸌」「㔩」「駞」
+瑾昀根據http://cls.hs.yzu.edu.tw/300/ALL/ALLFRAME.htm整理，已補全big5缺字（含ext-a）「藁」「裛」「嚱」「鏁」「㸌」「㔩」「駞」
+上述網址已失效，可另參見http://cls.lib.ntu.edu.tw/300/ALL/ALLFRAME.htm
 
 詩名:賊退示官吏并序
 作者:元結
